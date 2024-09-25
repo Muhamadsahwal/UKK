@@ -9,7 +9,7 @@
 
 ## Konsep web yang saya buat
 
-Website yang saya buat ini merupakan sebuah restoran yang memiliki Penampilan Yang Minimalis dan juga compact
+Website yang saya buat ini merupakan sebuah web restoran yang memiliki tampilan yang menarik, yang dapat memikat pelanggan dan juga aesthetic
 
 ## Filtur Yang Tersedia
 -- Halaman Pertama (Landing Page)
@@ -17,6 +17,11 @@ Website yang saya buat ini merupakan sebuah restoran yang memiliki Penampilan Ya
 - Menu
 - About
 - Tentang
+- Galery
+
+-- Halaman Admin
+- Product
+  
 
 --Authentication
 - Login
@@ -27,6 +32,24 @@ Website yang saya buat ini merupakan sebuah restoran yang memiliki Penampilan Ya
 - Email:admin@gmail.com
 - Password:admin145
 
+## Teknologi Yang Di Gunakan
+
+- Laravel 10
+- Start Bootstrap (SB Admin 2)
+
+## Tools Yang Di Gunakan
+
+- Visual Studio Code
+- Composeser
+- XAMPP
+
+## Persyaratan Instalasi
+
+-  PHP 8.2.12
+-  Database (XAMPP)
+-  Web Browser (Chrome atau Microsoft Edge)
+  
+
 ## ERD 
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
@@ -35,11 +58,6 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Teknologi Yang Di Gunakan
-
-- PHP 8.2.12 & Web Server (Apache)
--  Database (XAMPP)
--  Web Browser (Chrome atau Microsoft Edge)
     
 ## Instalasi
 
