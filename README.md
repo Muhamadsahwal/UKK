@@ -64,5 +64,26 @@ Website yang saya buat ini merupakan sebuah web restoran yang memiliki tampilan 
 ## Instalasi
 
 1. Clone Repositori
+    ```bash
+    git clone
+    https://github.com/Muhamadsahwal/UKK.git
+    composer install
+    cp. env.example .env
 
+2. Konfigurasi Database Pada File .env
+   ```bash
+   DB_DATABASE=UJIKOM
+   MASUK KE DATABASE(xampp) lalu di samakan dengan yang di atas
+
+3. Melakukan Migrasi Dan Menyambungkan Storage
+   ```bash
+   php artisan key:generate
+   php artisan storage:link
+   php artisan migrate --seed
+
+4. Mulai Web
+   ```bash
+   php artisan serve
+
+   
 
