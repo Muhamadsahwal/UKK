@@ -52,7 +52,8 @@ Website yang saya buat ini merupakan sebuah web restoran yang memiliki tampilan 
 
 ## ERD 
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+![Cuplikan layar 2024-09-26 053434](https://github.com/user-attachments/assets/7d569409-63e4-4580-b367-3de0f19c7a26)
+
 
 ## UML Diagram Use Case
 
