@@ -57,7 +57,8 @@ Website yang saya buat ini merupakan sebuah web restoran yang memiliki tampilan 
 
 ## UML Diagram Use Case
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+![Cuplikan layar 2024-09-26 102551](https://github.com/user-attachments/assets/509b8016-90d5-49e0-b989-9593b5989e8f)
+
 
     
 ## Instalasi
