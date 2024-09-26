@@ -40,7 +40,7 @@ Website yang saya buat ini merupakan sebuah web restoran yang memiliki tampilan 
 ## Tools Yang Di Gunakan
 
 - Visual Studio Code
-- Composeser
+- Composer
 - XAMPP
 
 ## Persyaratan Instalasi
